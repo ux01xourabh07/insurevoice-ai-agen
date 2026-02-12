@@ -1,0 +1,7 @@
+{
+  "name": "InsureVoice AI Agent",
+  "description": "A real-time voice insurance agent powered by Gemini Live API. Upload policy documents and have a natural conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
